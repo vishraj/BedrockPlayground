@@ -11,3 +11,6 @@ This tool uses APIGateway, AWS Lambda and Amazon Bedrock to demonstrate a use ca
 # Use Case 3: Chatbot
 This use case demonstrates how a model agnostic chatbot can be built using Streamlit, LangChain and Bedrock. 
 
+# Use Case 4: Biblio Search (RAG)
+This use case demonstrates a biblio search RAG implemenation built using Bedrock, FAISS and Streamlit.
+
